@@ -2,4 +2,3 @@ build
 .kdev4
 .cache
 *.kdev4
-main.cpp
